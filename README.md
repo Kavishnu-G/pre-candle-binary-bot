@@ -78,12 +78,12 @@ cd pre-candle-binary-bot
 - Open pre_candle_binary_bot.py and replace the placeholder API_KEY
 ```bash
 API_KEY = "your_actual_api_key_here"
-
+```
 
 -Run the bot
 ```bash
 python pre_candle_binary_bot.py
-
+```
 
 ## Sample Output :
 
