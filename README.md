@@ -73,7 +73,7 @@ Each pair has custom `min_move`, `multiplier`, and `pip_value` calibrated for ac
 ```bash
 git clone https://github.com/your-username/pre-candle-binary-bot.git
 cd pre-candle-binary-bot
-
+```
 
 - Open pre_candle_binary_bot.py and replace the placeholder API_KEY
 ```bash
